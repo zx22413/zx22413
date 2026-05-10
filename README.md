@@ -2,7 +2,7 @@
 
 **Technical AI PM / Solution Architect** — non-engineering background, shipping production AI systems through agentic engineering.
 
-📍 Taipei · 🌏 Open to remote · ✉️ zx2241384@gmail.com
+📂 [**lbdog.uk**](https://lbdog.uk) · 📍 Taipei · 🌏 Open to remote · ✉️ zx2241384@gmail.com
 
 ---
 
@@ -28,7 +28,8 @@ Modules battle-tested in production, released standalone:
 
 #### 🔗 Links
 
-- 📂 Portfolio: Coming soon
+- 📂 Portfolio: [lbdog.uk](https://lbdog.uk)
+- ⭐ Flagship case study: [MCP Monitoring Retrospective](https://lbdog.uk/mcp-retrospective) — *"Assumed. Deployed. Audited. Killed."*
 - ✉️ zx2241384@gmail.com
 
 ---
@@ -42,7 +43,7 @@ Modules battle-tested in production, released standalone:
 
 **Technical AI PM / Solution Architect** — 非工程背景，透過 AI agent 協作交付 production 級 AI 系統。
 
-📍 台北 · 🌏 接受遠端 · ✉️ zx2241384@gmail.com
+📂 [**lbdog.uk**](https://lbdog.uk) · 📍 台北 · 🌏 接受遠端 · ✉️ zx2241384@gmail.com
 
 ---
 
@@ -68,7 +69,8 @@ Modules battle-tested in production, released standalone:
 
 #### 🔗 連結
 
-- 📂 Portfolio：建置中
+- 📂 Portfolio：[lbdog.uk](https://lbdog.uk)
+- ⭐ 旗艦個案：[MCP 監控 Retrospective](https://lbdog.uk/mcp-retrospective) — *「假設。部署。稽核。砍掉。」*
 - ✉️ zx2241384@gmail.com
 
 </details>
